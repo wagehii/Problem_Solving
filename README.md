@@ -1,1 +1,1 @@
-![](PS.jpg)
+![](CodeWars_Rank.jpg)
